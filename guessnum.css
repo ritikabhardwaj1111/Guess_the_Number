@@ -1,0 +1,33 @@
+body{
+  background-image: url("wallpaper.png");
+  text-align: center;
+}
+.box{
+  background: linear-gradient(#292421, #4DFFA5);
+  height: 400px;
+  width: 400px;
+  border-radius: 26px;
+  margin: 80px auto;
+  box-shadow: 7px 7px 7px white;
+}
+#result{
+  height: 60px;
+  width: 90px;
+  margin: 30px auto;
+}
+input{
+  height: 30px;
+  border-radius: 13px;
+  background-color: #73c2fb;
+}
+button{
+  background-color:  #002147;
+  color: white;
+  height: 40px;
+  width: 120px;
+  border-radius: 5px;
+}
+button:hover{
+  background: linear-gradient(#9FEFDF, #108070, #01C5BB);
+  color: black;
+}
